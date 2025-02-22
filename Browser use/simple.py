@@ -1,0 +1,1 @@
+model_name: str = 'gemini-2.0-flash'

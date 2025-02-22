@@ -1,0 +1,7 @@
+smolagents
+litellm
+markdownify
+duckduckgo-search
+transformers
+beautifulsoup4
+requests
